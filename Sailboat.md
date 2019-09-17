@@ -1,3 +1,6 @@
+**PLEASE NOTE** This repository has move [here](https://appliedtechnology.github.io/retros/)
+We will keep these here for awhile before we remove them, but we don't update these
+
 # Retrospective script - Sailboat
 
 The purpose of this, and every retrospective, is to help us to improve by coming up with a few concrete improvement actions that we can complete / test / do until the next retrospective.  Small, concrete actions are preferred before large lofty goals that we don't reach anytime soon. There will be another retrospective in a few weeks.

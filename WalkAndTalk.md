@@ -1,6 +1,9 @@
+**PLEASE NOTE** This repository has move [here](https://appliedtechnology.github.io/retros/)
+We will keep these here for awhile before we remove them, but we don't update these
+
 # Retrospective script - the walk & talk
 
-The purpose of this, and every retrospective, is to help us to improve by coming up with a few concrete improvement actions that we can complete / test / do until the next retrospective.  Small, concrete actions are preferred before large lofty goals that we don't reach anytime soon. There will be another retrospective in a few weeks. 
+The purpose of this, and every retrospective, is to help us to improve by coming up with a few concrete improvement actions that we can complete / test / do until the next retrospective.  Small, concrete actions are preferred before large lofty goals that we don't reach anytime soon. There will be another retrospective in a few weeks.
 
 This particular retrospective is an outdoors-y exercise that is easy going and requires little preparation.  This retrospective also is very low facilitation-impact needed - so you can be part of the retrospective too!
 
@@ -18,14 +21,14 @@ This retrospective takes about 45 minutes. You need outdoor clothes.
 
 - Read the previous improvment actions
 - Did we do them?
-  - If no - why not? 
-  - If yes - what happened? Did we see an improvement? How? 
-- What should we think about writing new action items?  
+  - If no - why not?
+  - If yes - what happened? Did we see an improvement? How?
+- What should we think about writing new action items?
 
 ## Generate data (20 min)
 
 * Ask the group to divide up in pairs (or threes)
-* Tell the location you are going to. 
+* Tell the location you are going to.
   * You might wanna share [a link](https://www.google.com/maps/place/Monument+of+Engelbrekt/@59.3269106,18.0537184,18z/data=!4m12!1m6!3m5!1s0x465f77df9092cde9:0xaeafc90d911394c0!2sStockholm+City+Hall!8m2!3d59.3274506!4d18.0543456!3m4!1s0x465f77dfe15408c5:0xe0dedc4328babf00!8m2!3d59.3270244!4d18.0563354?hl=en) to the exact location
 * Give a, one, postive-spun question to talk and ponder, for example:
   * "What was the best thing that happened last iteration?"

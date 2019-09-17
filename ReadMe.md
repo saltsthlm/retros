@@ -1,3 +1,6 @@
+**PLEASE NOTE** This repository has move [here](https://appliedtechnology.github.io/retros/)
+We will keep these here for awhile before we remove them, but we don't update these
+
 # Retrospective plans
 
 ## Retro what?
